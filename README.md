@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sowmya-venkit
+- 👋 Hi, I’m @Sowmya
 - 👀 I’m interested in datascience and ML
-- 🌱 I’m currently learning ML
+- 🌱 currently i'm working with ML 
 - 💞️ I’m looking to collaborate on study
 - 📫 How to reach me ...
 
